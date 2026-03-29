@@ -1,0 +1,3 @@
+@echo off
+echo Starting AKIR Restaurant frontend...
+call npm run dev
